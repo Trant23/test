@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "count": 6,
+    "total_count": 6,
+    "data": [
+      {
+        "id": "42",
+        "group_name": {
+          "RU": "Фильмы",
+          "UA": "",
+          "EN": ""
+        },
+        "alias": "films"
+      },
+      {
+        "id": "64",
+        "group_name": {
+          "RU": "Детское",
+          "UA": "",
+          "EN": ""
+        },
+        "alias": "cartoons"
+      },
+      {
+        "id": "78",
+        "group_name": {
+          "UA": "",
+          "EN": "",
+          "RU": "Телешоу"
+        },
+        "alias": "tvshow"
+      },
+      {
+        "id": "80",
+        "group_name": {
+          "UA": "",
+          "EN": "",
+          "RU": "Обучение"
+        },
+        "alias": "education"
+      },
+      {
+        "id": "83",
+        "group_name": {
+          "UA": "",
+          "EN": "",
+          "RU": "Познавательное"
+        },
+        "alias": "documentary"
+      },
+      {
+        "id": "86",
+        "group_name": {
+          "UA": "",
+          "EN": "",
+          "RU": "Спорт"
+        },
+        "alias": "sport"
+      }
+    ],
+    "limit": 50,
+    "offset": 0
+  }
+}
